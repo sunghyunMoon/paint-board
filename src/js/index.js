@@ -1,3 +1,5 @@
+import "../scss/style.scss"
+
 class DrawingBoard {
     MODE = "NONE"; // NONE BRUSH ERASER
     isMouseDown = false;
